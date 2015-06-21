@@ -4,19 +4,13 @@ In run_analysis.R, you need to replace the variable my_home_path to where the Sa
 
 ## Dataset Directory Structure
 UCI HAR Dataset
- |- run_analysis.R
- |- activity_labels.txt
- |- features_info.txt
- |- features.txt
- |- README.txt
- |- test
-     |- subject_test.txt
-     |- X_test.txt
-     |- y_test.txt
- |- train
-     |- subject_train.txt
-     |- X_train.txt
-     |- y_train.txt
+* run_analysis.R
+* activity_labels.txt
+* features_info.txt
+* features.txt
+* README.txt
+* test (subject_test.txt, X_test.txt, y_test.txt)
+* train (subject_train.txt, X_train.txt, y_train.txt)
 
 ### Steps to run the script
 1. set current directory to where run_analysis.R is located
