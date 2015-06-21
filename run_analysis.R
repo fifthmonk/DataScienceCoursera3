@@ -1,4 +1,4 @@
-## Getting and Cleaning Data
+## Johns Hopkins - Getting and Cleaning Data
 ## Course Project
 
 ## set your path where datasets are located
